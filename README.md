@@ -8,3 +8,18 @@ and book vacation rentals seamlessly.<br> This project is built using Node.js, E
 🔐 User Authentication - Secure login and registration using Passport.js.<br>
 📷 Cloudinary Integration - Upload images using Multer & Cloudinary.<br>
 ⭐ Reviews & Ratings - Users can leave feedback on listings.<br>
+# Tech Stack 
+Frontend: HTML, CSS, Bootstrap, EJS<br>
+Backend: Node.js, Express.js<br>
+Database: MongoDB <br>
+Authentication: Passport.js <br>
+File Uploads: Multer & Cloudinary<br>
+ # Installation
+Prerequisites Node.js & npm installed MongoDB installed <br>
+locally or MongoDB Atlas account<br>
+Cloudinary account for image uploads<br>
+# Deployment
+To deploy Wanderlust on Render, Heroku, or Vercel: Use MongoDB Atlas for cloud database storage.<br>
+Configure Cloudinary for image uploads.<br>
+Set up environment variables on the hosting platform.<br>
+
