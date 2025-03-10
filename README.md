@@ -22,4 +22,6 @@ Cloudinary account for image uploads<br>
 To deploy Wanderlust on Render, Heroku, or Vercel: Use MongoDB Atlas for cloud database storage.<br>
 Configure Cloudinary for image uploads.<br>
 Set up environment variables on the hosting platform.<br>
+#Screenshots
+![image](https://github.com/user-attachments/assets/460c10df-49e8-40c5-985c-5be20e018b7f)
 
